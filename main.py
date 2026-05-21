@@ -4,6 +4,8 @@ from pydantic import BaseModel
 from dotenv import load_dotenv
 from fastapi.middleware.cors import CORSMiddleware
 
+
+
 import os
 import json
 import requests
@@ -22,17 +24,13 @@ app = FastAPI()
 # CORS
 app.add_middleware(
     CORSMiddleware,
-
     allow_origins=[
-        "http://127.0.0.1:3000",
-        "http://localhost:3000"
+        "https://riteshyounow.github.io"
     ],
-
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 # Request model
 class ChatRequest(BaseModel):
     message: str
