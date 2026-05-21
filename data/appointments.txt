@@ -1,0 +1,25 @@
+Name: palak
+Business: Gym
+Phone: 9696969696
+Time: 2 AM
+------------------------------
+Name: nisha
+Business: Digital Agency
+Phone: 8786482349
+Time: 6 PM
+------------------------------
+Name: ritika
+Business: cafe shop
+Phone: 9863789463
+Time: 7 AM
+------------------------------
+Name: pragya
+Business: Cafe
+Phone: 777777777
+Time: 7pm
+------------------------------
+Name: dany
+Business: Product-based Company
+Phone: 8888888888
+Time: 7 PM
+------------------------------
